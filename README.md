@@ -115,9 +115,8 @@ http://localhost:8080/login
 | Doenças | Sim | Não |
 | Vacinas | Sim | Não |
 
-Tentativas de acesso direto (pela URL) a rotas restritas por um usuário sem permissão são redirecionadas para uma página de acesso negado.
-
-
+## Link do vídeo
+https://youtu.be/0xx6IVSPyaY
 
 ## Integrantes
 
